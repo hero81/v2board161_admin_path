@@ -1,4 +1,7 @@
 import requests
+"""
+需要一个已注册账户(post_data)
+""
 
 proxies = {
     'http': 'http://127.0.0.1:7890',
