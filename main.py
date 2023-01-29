@@ -7,7 +7,7 @@ proxies = {
     'http': 'http://127.0.0.1:7890',
     'https': 'http://127.0.0.1:7890',
 }
-domain = 'https://gradua11y.145321.xyz/'
+domain = 'https://domain/'
 login_url = domain + 'api/v1/passport/auth/login'
 admin_path = domain + 'api/v1/admin/config/fetch'
 
